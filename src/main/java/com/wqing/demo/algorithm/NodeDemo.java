@@ -1,4 +1,4 @@
-package com.wqing.algorithm.demo;
+package com.wqing.demo.algorithm;
 
 import java.util.ArrayList;
 import java.util.List;

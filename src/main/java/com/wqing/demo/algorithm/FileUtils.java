@@ -1,4 +1,4 @@
-package com.wqing.algorithm.demo;
+package com.wqing.demo.algorithm;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -37,7 +37,7 @@ public class FileUtils {
 
 
     public static void main(String[] args) throws IOException {
-//        com.wqing.algorithm.demo.FileUtils.printListDirectory(new File("E:\\p2pfile\\良研问卷"));
+//        com.wqing.demo.algorithm.FileUtils.printListDirectory(new File("E:\\p2pfile\\良研问卷"));
 
 
 //        RandomAccessFile raf = new RandomAccessFile(new File("C:\\Users\\weiqing1\\Desktop\\轮播js.txt"), "rw");
