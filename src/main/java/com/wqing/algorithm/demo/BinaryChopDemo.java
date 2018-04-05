@@ -1,3 +1,5 @@
+package com.wqing.algorithm.demo;
+
 import java.util.Random;
 
 /**
