@@ -11,10 +11,10 @@ public class BinaryChopDemo {
             return -1;
         }
 
-        int l = 0, r = sourceArray.length - 1;
+        int l = 0, r = sourceArray.length - 1;//在[l.....r] 闭区间查找某个元素
 
         while (l <= r) {
-            int mid = (l + r) / 2;
+            int mid = (l + r) / 2;//两个整数相加 可能会出现整形溢出的情况，所以可以改为：l + (r-l)/2
             if (target > sourceArray[mid]) {
                 l = mid + 1;
             } else if (target == sourceArray[mid]) {
