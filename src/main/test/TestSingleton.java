@@ -1,4 +1,4 @@
-import com.wqing.demo.pattern.design.SingletonDemo;
+import com.wqing.demo.pattern.singleton.SingletonDemo;
 
 /**
  * Created by weiqing1 on 2018/4/5.
