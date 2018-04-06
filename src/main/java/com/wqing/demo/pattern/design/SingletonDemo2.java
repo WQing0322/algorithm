@@ -1,4 +1,4 @@
-package com.wqing.demo.designmode;
+package com.wqing.demo.pattern.design;
 
 /**
  * Created by weiqing1 on 2018/4/5.
