@@ -2,6 +2,7 @@ import com.wqing.demo.pattern.template.Coffee;
 import com.wqing.demo.pattern.template.MakeDrink;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 
